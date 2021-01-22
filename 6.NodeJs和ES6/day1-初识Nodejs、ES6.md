@@ -22,7 +22,7 @@ Nodejs的设计核心思想：
 | Edge    | Chakra  |
 
 ## 1.2Node.js的诞生
-![image](img/2.png)
+![image](./img/2.png)
 
 - 作者Ryan Dahl 瑞恩·达尔
     + 2004 纽约 读数学博士 
